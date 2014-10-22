@@ -1,7 +1,7 @@
-# Clicketyclank.js
+# Clickityclank.js
 
 
-It's a clickety clank bookmarklet.
+It's a clickity clank bookmarklet.
 
 Forked from:
 
